@@ -1,0 +1,9 @@
+__pycache__/
+*.py[cod]
+.venv/
+.env
+.env.*
+!.env.example
+.DS_Store
+evaluation_script/model_responses/
+evaluation_script/evaluation_results/
